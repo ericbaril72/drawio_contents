@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.3">
+  <diagram id="tFCmq5iuKkAobj97_fwz" name="Page-1">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="0" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="1">
+      <root>
+        <object label="" updateUrl="demo" updateInterval="2000" id="0">
+          <mxCell />
+        </object>
+        <mxCell id="1" parent="0" />
+        <UserObject label="BG Tag1" tags="tag1" id="tAPe3J66hBf33LanlcTd-40">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+            <mxGeometry x="220" y="310" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BG Tag2" tags="tag2" id="tAPe3J66hBf33LanlcTd-41">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+            <mxGeometry x="450" y="60" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BG Tag3" tags="tag3" id="tAPe3J66hBf33LanlcTd-42">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+            <mxGeometry x="260" y="120" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="BG Tag3 Tag1" tags="tag3 tag1" id="tAPe3J66hBf33LanlcTd-43">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+            <mxGeometry x="353" y="450" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="tAPe3J66hBf33LanlcTd-44" value="Tag1 toggle" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tAPe3J66hBf33LanlcTd-33" value="layer1" parent="0" />
+        <mxCell id="tAPe3J66hBf33LanlcTd-35" value="Layer1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="tAPe3J66hBf33LanlcTd-33" vertex="1">
+          <mxGeometry x="110" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tAPe3J66hBf33LanlcTd-36" value="Layer1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="tAPe3J66hBf33LanlcTd-33" vertex="1">
+          <mxGeometry x="180" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tAPe3J66hBf33LanlcTd-34" value="layer2" parent="0" />
+        <mxCell id="tAPe3J66hBf33LanlcTd-37" value="Layer2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="tAPe3J66hBf33LanlcTd-34" vertex="1">
+          <mxGeometry x="200" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="Layer2 Tag1" tags="tag1" id="tAPe3J66hBf33LanlcTd-38">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="tAPe3J66hBf33LanlcTd-34" vertex="1">
+            <mxGeometry x="160" y="340" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
